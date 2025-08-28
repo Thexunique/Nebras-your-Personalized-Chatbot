@@ -1,7 +1,7 @@
 # Nebras-your-Personalized-Chatbot
 The Personalized Chatbot with Dynamic Responses will use advanced AI techniques such as transformer models, attention mechanisms, and continuous learning to create a chatbot that can engage in meaningful conversations and generate dynamic, human-like responses. 
 “Nebras” Customer Support Chatbot (GPT-2 + FastAPI & Docker)
-##👥 Team Roles (6 members)
+## 👥 Team Roles (6 members)
 •	Team Lead (TL): Oversees progress, coordinates integration.
 •	Data Engineer (DE): Data collection & preprocessing for customer support.
 •	ML Engineer 1 (MLE1): GPT-2 fine-tuning.
@@ -9,7 +9,7 @@ The Personalized Chatbot with Dynamic Responses will use advanced AI techniques 
 •	MLOps Engineer (MOE): Docker + FastAPI deployment, CI/CD.
 •	Documentation & QA (DQA): Documentation, testing, final report & presentation.
 ________________________________________
-##🗓 Timeline & Task Breakdown
+## 🗓 Timeline & Task Breakdown
 📍 Milestone 1: Data Collection & Preprocessing (Week 1–2)
 Tasks
 •	(DE) Collect customer support conversation data (tickets, FAQs, forums).
@@ -58,7 +58,7 @@ Deliverables
 •	✅ Final presentation
 •	✅ Live demo of the chatbot
 ________________________________________
-##📊 High-Level Gantt-Style Timeline
+## 📊 High-Level Gantt-Style Timeline
 Weeks	Milestone	Main Roles
 1–2	Data Collection & Preprocessing	DE, DQA
 3–5	GPT-2 Fine-tuning & Training	MLE1, DE, DQA
