@@ -1,5 +1,6 @@
 # “Nebras” Customer Support Chatbot (GPT-2 + FastAPI & Docker)
 The Personalized Chatbot with Dynamic Responses will use advanced AI techniques such as transformer models, attention mechanisms, and continuous learning to create a chatbot that can engage in meaningful conversations and generate dynamic, human-like responses. 
+Google Drive link : https://drive.google.com/drive/folders/1P95epuUBCAQ4hL2YwTUiIpRzlurZ0phx?usp=drive_link
 ## 👥 Team Roles (6 members)
 •	Team Lead (TL): Oversees progress, coordinates integration.
 •	Data Engineer (DE): Data collection & preprocessing for customer support.
