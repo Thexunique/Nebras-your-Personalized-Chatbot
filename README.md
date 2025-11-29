@@ -1,5 +1,6 @@
 # "Nebras" Medical Chatbot
 
+Chat live link: https://nebras-medical-assistant.vercel.app/
 Google Drive link: https://drive.google.com/drive/folders/1P95epuUBCAQ4hL2YwTUiIpRzlurZ0phx?usp=drive_link
 
 ## 1. Project Description
